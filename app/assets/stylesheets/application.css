@@ -27,4 +27,16 @@
  body{
     font-family: 'Indie Flower', cursive;
     font-size: 30px;
- }
+    background-image: url(https://myrealdomain.com/images/fun-colorful-backgrounds-1.png);
+    color: black 
+}
+tbody{
+    background: #0064ff;
+    color: whitesmoke;
+}
+footer{
+    background: #0064ff;
+    color: whitesmoke;
+}
+
+    
